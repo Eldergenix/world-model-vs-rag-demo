@@ -1,0 +1,6 @@
+{
+  "name": "Architecture Benchmark: World Model vs RAG",
+  "description": "A side-by-side comparison of deep reasoning models vs fast retrieval models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
